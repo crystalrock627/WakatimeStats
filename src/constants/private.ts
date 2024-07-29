@@ -1,0 +1,3 @@
+const tk = "";
+
+export { tk };
